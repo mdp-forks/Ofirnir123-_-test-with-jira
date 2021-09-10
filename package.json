@@ -1,8 +1,17 @@
 {
   "name": "test-with-jira",
-  "version": "0.1",
+  "version": "1.0.0",
   "description": "test",
   "dependencies": {
     "serverless": "^2.57.0"
   }
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heroku/node-js-sample"
+  },
+  "author": "Mark Pundsack",
+  "contributors": [
+    "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com)"
+  ],
+  "license": "MIT"
 }
