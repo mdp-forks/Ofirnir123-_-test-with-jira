@@ -1,17 +1,14 @@
 {
-  "name": "test-with-jira",
+  "name": "test-project",
   "version": "1.0.0",
-  "description": "test",
+  "description": "A Vue.js project",
+  "main": "src/main.js",
+  "private": true,
   "dependencies": {
     "serverless": "^2.57.0"
-  }
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/heroku/node-js-sample"
   },
-  "author": "Mark Pundsack",
-  "contributors": [
-    "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com)"
-  ],
-  "license": "MIT"
+  "engines": {
+    "node": ">= 6.0.0",
+    "npm": ">= 3.0.0"
+  }
 }
